@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://obchvatprohradec.cz/sitemap.xml
